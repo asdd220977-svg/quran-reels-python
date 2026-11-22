@@ -1,0 +1,7 @@
+# Exact tested core versions. Python 3.12 Windows wheel install still needs local verification.
+faster-whisper==1.2.1
+Pillow==12.3.0
+requests==2.34.2
+# faster-whisper alignment uses these local libraries:
+ctranslate2==4.9.1
+numpy>=2.0,<3
