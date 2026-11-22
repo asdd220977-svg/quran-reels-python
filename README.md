@@ -1,3 +1,16 @@
+## Downloading from GitHub / التحميل من GitHub
+
+Use Code > Download ZIP, extract it, then open Command Prompt inside the extracted repository and run:
+
+```bat
+py -3.12 unpack_bundle.py
+cd quran-reels
+```
+
+الخطوة دي بتسترجع نسخة v3 الأصلية كاملة، بما فيها الخط ورخصته، بعد التحقق من SHA-256. مش محتاج تنسخ أو تفك Base64 بنفسك. بعد كده كمّل تعليمات الإعداد بالأسفل من مجلد `quran-reels`. الملفات النصية الموجودة في جذر المستودع للقراءة؛ النسخة المسترجعة هي الحزمة المختبرة الأصلية. لا تستبدل مشروع قديم، فك المستودع في مجلد جديد.
+
+The text-safe bundle preserves the exact reviewed ZIP because binary web upload was unavailable. `unpack_bundle.py` uses only Python's standard library, verifies the checksum before extracting, and makes no network requests. Run it in a fresh directory. Windows/Python 3.12 remains untested; actual tests used Linux/Python 3.10.
+
 # Quran Reels, Python pipeline
 
 برنامج مستقل للتشغيل من `C:\Users\USER\OpenMontage`. بيستخدم AlQuran Cloud للصوت والنص العثماني وen.sahih، وWhisper محلي عن طريق faster-whisper، وPillow للرسم وFFmpeg للتجميع. مفيش نشر تلقائي أو خدمات مدفوعة. التكلفة المستخدمة في الاختبار $0، مع احتياج إنترنت وتنزيلات ومساحة وتشغيل على جهازك.
