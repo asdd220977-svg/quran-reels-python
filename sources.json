@@ -1,0 +1,35 @@
+{
+  "sudais": {
+    "background": {
+      "title": "Free Islamic mosque sunrise image",
+      "creator": null,
+      "creator_url": null,
+      "license": "cc0",
+      "license_version": "1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "foreign_landing_url": "https://www.rawpixel.com/image/5922699/photo-image-public-domain-free-islamic",
+      "url": "https://images.rawpixel.com/editor_1024/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcHg1NDEzNzAtaW1hZ2Uta3d2eHBtdHYuanBn.jpg",
+      "attribution": "\"Free Islamic mosque sunrise image\" is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/."
+    },
+    "audio": [
+      "https://cdn.islamic.network/quran/audio/192/ar.abdurrahmaansudais/1735.mp3"
+    ]
+  },
+  "range_review": {
+    "background": {
+      "title": "Night Sky - Star Party",
+      "creator": "Santa Monica Mountains National Recreation Area",
+      "creator_url": "https://www.flickr.com/photos/38729417@N06",
+      "license": "pdm",
+      "license_version": "1.0",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "foreign_landing_url": "https://www.flickr.com/photos/38729417@N06/29379750356",
+      "url": "https://live.staticflickr.com/8028/29379750356_f986caa220_b.jpg",
+      "attribution": "\"Night Sky - Star Party\" by Santa Monica Mountains National Recreation Area is marked with Public Domain Mark 1.0. To view the terms, visit https://creativecommons.org/publicdomain/mark/1.0/."
+    },
+    "audio": [
+      "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/6095.mp3",
+      "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/6096.mp3"
+    ]
+  }
+}
